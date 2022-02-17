@@ -10,8 +10,8 @@
 
 ### Connect with me:
 
-(./instagram-light.svg)](https://www.instagram.com/ahmadfadillah_n/-light-mode-only)
-(./instagram-dark.svg)](https://www.instagram.com/ahmadfadillah_n/-dark-mode-only)
+[![website](instagram-light.svg)](https://www.instagram.com/ahmadfadillah_n/-light-mode-only)
+[![website](instagram-dark.svg)](https://www.instagram.com/ahmadfadillah_n/-dark-mode-only)
 
 ### Languages and Tools:
 
