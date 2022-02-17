@@ -3,9 +3,10 @@
 ## I'm a Web Developer, Freelancer, and Tech Enthusiast!!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking for company hire me
+- 👨🏻‍💻 I’m looking for company hire me
 - 🥅 2022 Goals: Learn more about web3
 - ⚡ Fun fact: I love art and play drums
+- 📫 How to reach me: ahmadfadillah141194@gmail.com;
 
 ### Connect with me:
 
@@ -24,4 +25,3 @@
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" style="padding-right:10px;" />
